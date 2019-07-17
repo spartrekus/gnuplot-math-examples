@@ -1,2 +1,2 @@
 # gnuplot-math-examples
-generated under freebsd and netbsd
+generated under netbsd
